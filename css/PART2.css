@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond ;
+}
+
+div{
+    background-color: skyblue;
+    border-color: blue;
+    border-width: thin;
+    border-width: 10px;
+    border-style:groove;
+}
+
+p{
+    color: rgb(94, 64, 34);
+}
+
+span{
+    background-color: tomato;
+    color: black;
+}
