@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+td{
+    background-color: black;
+    height: 320px;
+    width: 160px;
+    border: 5px solid white;
+}
+table{
+    margin: auto;
+}
+
+#one{
+    background-color: red;
+}
+#two{
+    background-color: orange;
+}
+#three{
+    background-color: yellow;
+}
+#four{
+    background-color: green;
+}
+#five{
+    background-color: indigo;
+}
